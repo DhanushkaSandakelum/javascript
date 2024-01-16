@@ -1,0 +1,1 @@
+A Promise in JavaScript represents the eventual completion or failure of an asynchronous operation, and its resulting value. It has three states: pending, fulfilled (resolved), or rejected. Promises are often used for handling asynchronous operations such as fetching data, making API calls, or reading files.
